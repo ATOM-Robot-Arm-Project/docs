@@ -1,53 +1,54 @@
-# 📚 Robotic Arm – Documentation Repository
+# 🤖 ATOM Project – Robotic Arm Documentation
 
-This repository contains the **academic, technical, and planning documentation** related to the Robotic Arm with Computer Vision project developed by undergraduate students of Computer Science at Dom Helder School – Group GIC 2025.
+Bem-vindo ao repositório oficial de documentação do projeto **Braço Robótico com Visão Computacional**, desenvolvido por estudantes do curso de Ciência da Computação do **Centro Universitário Dom Helder Câmara**, como parte do grupo GIC – Iniciação Científica 2025.
 
----
+Este repositório reúne todos os documentos relacionados ao projeto, incluindo atas de reuniões, planejamentos, cronogramas, esquemas técnicos, referências teóricas, relatórios acadêmicos e materiais de apoio.
 
-## 📁 Contents
-
-This repository is organized into the following directories:
-
-| Folder                      | Description                                                                 |
-|----------------------------|-----------------------------------------------------------------------------|
-| `requirements/`            | Initial technical, functional, and academic requirements                     |
-| `project-charter/`         | General planning, objectives, and scope definition                          |
-| `technical-docs/`          | Engineering documents: circuits, schematics, and system design              |
-| `academic-papers/`         | Academic assignments, abstracts, posters, and scientific papers             |
-| `meetings/`                | Meeting notes, minutes, agendas, and attendance                             |
-| `presentations/`           | Slides and visual materials for presentations                               |
-| `diagrams/`                | UML diagrams, block diagrams, data flow diagrams                            |
-| `references/`              | Bibliographic references and external resources                             |
-| [branching.md/](https://github.com/ATOM-Robot-Arm-Project/docs/blob/main/branching.md)              | Explains how to manage and use branches in our repository                             |
-| `timeline.md`              | Contains all agenda and schedules of the project                             |
-| `references.md`              | Contains all references used in this project                            |
+Além de servir como base para organização interna, este espaço é um **repositório histórico do desenvolvimento do projeto**, promovendo rastreabilidade, cooperação e acessibilidade entre todos os integrantes.
 
 ---
 
-## 🧾 License
+## 📁 Estrutura do Repositório
 
-All contents of this repository are licensed under:  
+| Pasta / Arquivo                 | Descrição                                                                 |
+|--------------------------------|---------------------------------------------------------------------------|
+| `design/`                      | Arquitetura do sistema, desenhos mecânicos e esquemas de hardware         |
+| `diagrams/`                    | Diagramas UML, de fluxo e arquitetura de sistemas                         |
+| `meetings/`                    | Atas semanais, agendas e registros de presença                            |
+| `methodology/`                 | Modelos e métodos utilizados durante o desenvolvimento                    |
+| `reports/`                     | Relatórios técnicos e acadêmicos                                          |
+| `scripts/`                     | Scripts auxiliares e automações                                           |
+| `theoretical framework/`      | Referencial teórico e fundamentação bibliográfica                         |
+| [`branching.md`](branching.md)         | Guia de uso de branches e estratégias de versionamento                   |
+| [`timeline.md`](timeline.md)           | Cronograma geral e planejamento de entregas                             |
+| [`references.md`](references.md)       | Lista detalhada de referências utilizadas                               |
+
+---
+
+## 🔐 Licença
+
+Este repositório está licenciado sob:  
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-You may share, copy, and adapt the materials with proper credit.
+Você pode compartilhar e adaptar os materiais com os devidos créditos.
 
 ---
 
-## 👥 Contributors
+## 👥 Equipe
 
-- Enzo Rocha Leite Diniz Ribas *(Coordinator)*  
-- Eduardo do Amaral Melo Pereira  
-- Lucas Weiss Telles de Matos  
-- Carlos Eduardo Lopes Caetano  
-- Moreno Costa Jones  
+- Enzo Rocha Leite Diniz Ribas *(Coordenador)*
+- Eduardo do Amaral Melo Pereira
+- Lucas Weiss Telles de Matos
+- Carlos Eduardo Lopes Caetano
+- Moreno Costa Jones
 - Rafael Alves
 
-See [`teams.md`](https://github.com/ATOM-Robot-Arm-Project/ATOM-project/blob/main/teams.md) for more details on team roles.
+Veja [`teams.md`](https://github.com/ATOM-Robot-Arm-Project/ATOM-project/blob/main/teams.md) para detalhes sobre as funções de cada membro.
 
 ---
 
-## 🏫 Institution
+## 🏛️ Instituição
 
-**Dom Helder Câmara University Center – Computer Science Department**  
-Supervisors: Prof. Ricardo Luiz Freitas, Prof. Presleyson Lima
+**Centro Universitário Dom Helder Câmara – Departamento de Ciência da Computação**  
+**Orientadores:** Prof. Ricardo Luiz Freitas, Prof. Presleyson Lima
 
 ---
